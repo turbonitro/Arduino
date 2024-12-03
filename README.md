@@ -1,2 +1,1 @@
-# Arduino-
-Obracanie głowicą w zależności od pozycji światła
+Rotate the head according to the position of the light sources
